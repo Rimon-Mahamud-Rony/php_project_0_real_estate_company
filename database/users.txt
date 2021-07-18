@@ -1,0 +1,12 @@
+name :rimon
+email:rimon@rimon.com
+pass:rimon
+
+
+name :test
+email:test@test.com
+pass:test
+
+name :mridul
+email:mridu@mridul.com
+pass:mridul
